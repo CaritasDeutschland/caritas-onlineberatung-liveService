@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.8.3](https://github.com/CaritasDeutschland/caritas-onlineBeratung-liveService/compare/v1.8.2...v1.8.3) (2022-12-16)
+
+
+### Bug Fixes
+
+* version ([c83854a](https://github.com/CaritasDeutschland/caritas-onlineBeratung-liveService/commit/c83854aa0d8cafb8afcfb750c52fb6dbf737bf95))
+* workflow ([0f1a8c7](https://github.com/CaritasDeutschland/caritas-onlineBeratung-liveService/commit/0f1a8c7d28000dea7efaaf428d4f08d1c4fbd599))
+* workflow ([5488f04](https://github.com/CaritasDeutschland/caritas-onlineBeratung-liveService/commit/5488f048b5151bf8dde6404bbb7b3b010de5261e))
+
 ### [1.8.2](https://github.com/CaritasDeutschland/caritas-onlineBeratung-liveService/compare/v1.8.1...v1.8.2) (2022-12-15)
 
 ### [1.8.1](https://github.com/CaritasDeutschland/caritas-onlineBeratung-liveService/compare/v1.8.0...v1.8.1) (2022-12-15)
