@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.9.0](https://github.com/CaritasDeutschland/caritas-onlineBeratung-liveService/compare/v1.8.3...v1.9.0) (2023-01-16)
+
+
+### Features
+
+* updated docker workflow with proper tagging ([140cd01](https://github.com/CaritasDeutschland/caritas-onlineBeratung-liveService/commit/140cd0131496edb5ae2862f5de922d66e7db7bc2))
+
 ### [1.8.3](https://github.com/CaritasDeutschland/caritas-onlineBeratung-liveService/compare/v1.8.2...v1.8.3) (2022-12-16)
 
 
